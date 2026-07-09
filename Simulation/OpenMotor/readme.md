@@ -30,11 +30,6 @@ Upon physical static testing, a significant deviation in the burn rate was obser
 
 Empirical testing yielded a much longer, regressive burn over **~1.40 seconds**. Post-fire hardware inspection confirmed **0.000 in of nozzle throat erosion**, isolating the predictive failure entirely to the propellant characterization within the software.
 
-### Next Steps for Simulation (Iteration 2)
-To build a calibrated model for future motor iterations, the empirical constants in OpenMotor's propellant database must be adjusted based on the static fire data:
-1. **Burn Rate Coefficient (a) and Pressure Exponent (n):** The theoretical values utilized in this initial simulation significantly overestimated the burn rate for this specific chemical batch and curing environment. These parameters will be calibrated downward to match the 1.40 s empirical burn time.
-2. **Efficiency Tuning:** Once burn time is calibrated via the burn rate constants, the C-Star efficiency parameter will be adjusted to accurately reflect the empirical 58.14 Ns total impulse.
-
 ## Files in this Directory
 * `F75_Predictive_Model.eng` - The simulated thrust curve data exported from OpenMotor.
 * `motor_sim.omtr` - The OpenMotor project save file.
