@@ -10,7 +10,7 @@ A fully documented amateur F-class solid rocket motor static fire test designed 
 
 | Parameter | Value |
 |---|---|
-| Motor Class | F (F75) |
+| Motor Class | F (F78) |
 | Total Impulse | 58.14 Ns (Actual) / 58.88 Ns (Predicted) |
 | Peak Thrust | 93.07 N (Actual) / 134.67 N (Predicted) |
 | Burn Time | ~1.40 s (Actual) / 0.72 s (Predicted) |
