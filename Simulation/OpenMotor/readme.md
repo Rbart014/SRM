@@ -33,3 +33,4 @@ Empirical testing yielded a much longer, regressive burn over **~1.40 seconds**.
 ## Files in this Directory
 * `F78_Predictive_Model.eng` - The simulated thrust curve data exported from OpenMotor.
 * `motor_sim.omtr` - The OpenMotor project save file.
+* `SRM.png` 
