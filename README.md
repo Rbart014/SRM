@@ -35,5 +35,5 @@ f-class-static-test/
 ├── DAQ/             # Custom C drivers for STM32 and HX711
 ├── test_data/            # Raw load cell CSVs from static firings
 ├── Cad/             # CAD files for custom metal motor mounts
-├── images/               # Thrust curves, stand photos, and diagrams
+├── images/               # Videos of firing, Post inspection
 └── README.md
