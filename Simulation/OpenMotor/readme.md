@@ -31,5 +31,5 @@ Upon physical static testing, a significant deviation in the burn rate was obser
 Empirical testing yielded a much longer, regressive burn over **~1.40 seconds**. Post-fire hardware inspection confirmed **0.000 in of nozzle throat erosion**, isolating the predictive failure entirely to the propellant characterization within the software.
 
 ## Files in this Directory
-* `F75_Predictive_Model.eng` - The simulated thrust curve data exported from OpenMotor.
+* `F78_Predictive_Model.eng` - The simulated thrust curve data exported from OpenMotor.
 * `motor_sim.omtr` - The OpenMotor project save file.
