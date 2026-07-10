@@ -12,7 +12,7 @@ The initial predictive model was built using the following theoretical and geome
 | :--- | :--- | :--- |
 | **Propellant** | Type | KNSB (Potassium Nitrate / Sorbitol) |
 | **Grain Geometry** | Configuration | Single-Grain BATES |
-| | Outer Diameter (OD) | 0.827 in |
+| | Outer Diameter (OD) | 0.819 in |
 | | Length | 3.94 in |
 | **Nozzle Geometry** | Throat Diameter | 0.153 in |
 | | Throat Length | 0.079 in |
@@ -26,7 +26,7 @@ The initial predictive model was built using the following theoretical and geome
 
 The files currently in this directory represent the **pre-test predictive model**. 
 
-Upon physical static testing, a significant deviation in the burn rate was observed. The OpenMotor simulation predicted a highly progressive burn over **0.69 seconds** with a peak chamber pressure of **1195 psi**. 
+Upon physical static testing, a significant deviation in the burn rate was observed. The OpenMotor simulation predicted a highly progressive burn over **0.72 seconds** with a peak chamber pressure of **1233 psi**. 
 
 Empirical testing yielded a much longer, regressive burn over **~1.40 seconds**. Post-fire hardware inspection confirmed **0.000 in of nozzle throat erosion**, isolating the predictive failure entirely to the propellant characterization within the software.
 
