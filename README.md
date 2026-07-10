@@ -11,11 +11,11 @@ A fully documented amateur F-class solid rocket motor static fire test designed 
 | Parameter | Value |
 |---|---|
 | Motor Class | F (F75) |
-| Total Impulse | 58.14 Ns (Actual) / 54.33 Ns (Predicted) |
-| Peak Thrust | 93.07 N (Actual) / ~130.0 N (Predicted) |
-| Burn Time | ~1.40 s (Actual) / 0.69 s (Predicted) |
+| Total Impulse | 58.14 Ns (Actual) / 58.88 Ns (Predicted) |
+| Peak Thrust | 93.07 N (Actual) / 134.67 N (Predicted) |
+| Burn Time | ~1.40 s (Actual) / 0.72 s (Predicted) |
 | Chamber Pressure | 8.24 MPa (Predicted) |
-| Propellant Grain | Single-grain BATES (21 mm OD) |
+| Propellant Grain | Single-grain BATES (20.8 mm OD) |
 | Propellant Length | 100 mm |
 | Casing OD | 25 mm |
 | Nozzle Throat Diameter | 3.89 mm |
@@ -32,8 +32,8 @@ A fully documented amateur F-class solid rocket motor static fire test designed 
 ```text
 f-class-static-test/
 ├── simulation/           # OpenMotor 1D ballistics project files
-├── daq_code/             # Custom C drivers for STM32 and HX711
+├── DAQ/             # Custom C drivers for STM32 and HX711
 ├── test_data/            # Raw load cell CSVs from static firings
-├── hardware/             # CAD files for custom metal motor mounts
+├── Cad/             # CAD files for custom metal motor mounts
 ├── images/               # Thrust curves, stand photos, and diagrams
 └── README.md
