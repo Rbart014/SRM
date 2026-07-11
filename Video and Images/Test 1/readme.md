@@ -1,19 +1,28 @@
-# Solid Rocket Motor Static Test
+# Static Fire Test 01
 
-This repository contains documentation, media, and post-test analysis for a custom solid rocket motor static fire test 1. 
+This directory contains the documentation, media, and post-test breakdown for the first static fire test of the custom solid rocket motor.
 
 ## Motor Specifications
 * **Propellant:** KNSB (Meltcast)
-* **Configuration:** Single-grain Bates (20.8 mm OD)
-* **Casing:** 25 mm ID diameter
+* **Configuration:** Single-grain Bates (21 mm OD)
+* **Casing:** 25 mm diameter
 * **Thermal Management:** 3D Printed Polycarbonate (PC) liner
 
-## Project Media & Documentation
-This project includes pre-test and post-test media to evaluate the internal ballistics, thermal soak-back, and structural integrity of the motor:
+## Test 01 Media & Documentation
+The following files document the pre-test assembly and post-test structural and thermal evaluation:
 
-* **Pre-Test:** Full motor assembly, KNSB meltcast grain, igniter, and the PC mold/liner.
-* **Post-Test Analysis:** Component breakdown including the casing, front closure, nozzle, and internal assembly after firing to assess wear and thermal degradation.
-* **Test Video:** Complete footage of the static fire on the test stand.
+* **Pre-Test Files:** 
+  * `Full Assembly.jpg`
+  * `KNSB meltcast.jpg` 
+  * `Igniter.jpg`
+  * `PC mold_liner.jpg`
+* **Post-Test Breakdown:** 
+  * `Assembly after test.jpg`
+  * `Casing after test.jpg`
+  * `Front Closure and Nozzle after test.jpg`
 
-## Overview
-The primary objective of this firing was to validate the thermal liner's survivability and the overall structural safety of the motor casing and closures under live pressure conditions.
+## Static Fire Footage
+
+
+## Test Objectives
+The primary goal of Test 01 was to establish a baseline for the motor's internal ballistics and to validate the survivability of the 3D-printed PC thermal liner under live pressure and thermal soak-back conditions.
