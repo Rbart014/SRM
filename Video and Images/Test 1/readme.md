@@ -4,7 +4,7 @@ This directory contains the documentation, media, and post-test breakdown for th
 
 ## Motor Specifications
 * **Propellant:** KNSB (Meltcast)
-* **Configuration:** Single-grain Bates (21 mm OD)
+* **Configuration:** Single-grain Bates (20.8 mm OD)
 * **Casing:** 25 mm diameter
 * **Thermal Management:** 3D Printed Polycarbonate (PC) liner
 
